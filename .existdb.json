@@ -3,7 +3,7 @@
     "localhost": {
       "server": "http://localhost:8080/exist",
       "user": "admin",
-      "password": "",
+      "password": "@L@B@$7RUm",
       "root": "/db/apps//06-controller"
     }
   },
